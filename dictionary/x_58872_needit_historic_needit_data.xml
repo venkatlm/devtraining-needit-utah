@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="9060b99c975112100174793de053af40" extends="sys_import_set_row" label="Historic NeedIt Data" max_length="40" name="x_58872_needit_historic_needit_data" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=BALANCE" label="BALANCE" max_length="40" name="u_balance" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=PURCHASES_FREQUENCY" label="PURCHASES_FREQUENCY" max_length="40" name="u_purchases_frequency" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=PURCHASES_TRX" label="PURCHASES_TRX" max_length="40" name="u_purchases_trx" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=TENURE" label="TENURE" max_length="40" name="u_tenure" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=PURCHASES" label="PURCHASES" max_length="40" name="u_purchases" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=field_1" label="field_1" max_length="40" name="u_field_1" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=CASH_ADVANCE" label="CASH_ADVANCE" max_length="40" name="u_cash_advance" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=MINIMUM_PAYMENTS" label="MINIMUM_PAYMENTS" max_length="40" name="u_minimum_payments" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=BALANCE_FREQUENCY" label="BALANCE_FREQUENCY" max_length="40" name="u_balance_frequency" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=INSTALLMENTS_PURCHASES" label="INSTALLMENTS_PURCHASES" max_length="40" name="u_installments_purchases" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=PURCHASES_INSTALLMENTS_FREQUENCY" label="PURCHASES_INSTALLMENTS_FREQUENCY" max_length="40" name="u_purchases_in_ents_frequency" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=CREDIT_LIMIT" label="CREDIT_LIMIT" max_length="40" name="u_credit_limit" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=CUST_ID" label="CUST_ID" max_length="40" name="u_cust_id" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=PRC_FULL_PAYMENT" label="PRC_FULL_PAYMENT" max_length="40" name="u_prc_full_payment" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=ONEOFF_PURCHASES_FREQUENCY" label="ONEOFF_PURCHASES_FREQUENCY" max_length="40" name="u_oneoff_purchases_frequency" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=PAYMENTS" label="PAYMENTS" max_length="40" name="u_payments" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=ONEOFF_PURCHASES" label="ONEOFF_PURCHASES" max_length="40" name="u_oneoff_purchases" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=CASH_ADVANCE_FREQUENCY" label="CASH_ADVANCE_FREQUENCY" max_length="40" name="u_cash_advance_frequency" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=CASH_ADVANCE_TRX" label="CASH_ADVANCE_TRX" max_length="40" name="u_cash_advance_trx" type="string"/>
+    </element>
+</database>
